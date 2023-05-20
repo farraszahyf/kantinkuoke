@@ -1,0 +1,195 @@
+[
+  {
+    "name":"Warung 1",
+    "address":"kantin DC IT Telkom",
+    "delivery_charge": 5,
+    "image":"https://drive.google.com/uc?export=view&id=1LG8_f-Clj3TMOTVgU8ExB0Sc2OL5ZGn5",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Mie ayam",
+        "price": 8.50,
+        "url": "https://drive.google.com/uc?export=view&id=18HbcWt99M02CU3vmdFDVUr4Eg268IB5v"
+      },
+      {
+        "name": "Omlet",
+        "price": 10.0,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+      },
+      {
+        "name": "Martabak",
+        "price": 15.000,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "Steak Ayam",
+        "price": 10.0,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      },
+      {
+        "name": "Es Teh",
+        "price": 4.00,
+        "url": "https://drive.google.com/uc?export=view&id=1-InXG0_UV9xpHtQwJpEOoD_ez422CAGW"
+      },
+      {
+        "name": "Nasi Ayam Chicken",
+        "price": 13.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Mie Nyemek Pedas",
+        "price": 10.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Mie Nyemek Keju",
+        "price": 11.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Kue Manis",
+        "price": 5.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Brownies",
+        "price": 6.0,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"Warung 2",
+    "address":"kantin TT IT Telkom.",
+    "delivery_charge": 4,
+    "image":"https://drive.google.com/uc?export=view&id=1Xsw9xuJzCVbVgtbiJEE1ksko8wXGPjjD",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Hot Dog",
+        "price": 7.0,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+      },
+      {
+        "name": "Nasi Goreng",
+        "price": 10.0,
+        "url": "https://drive.google.com/uc?export=view&id=16C1vWzXSLJVohCRnlhRSmbDAq6ctu-GC"
+      },
+      {
+        "name": "Midway Monster",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+      },
+      {
+        "name": "Kentang Goreng",
+        "price": 5.0,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+      },
+      {
+        "name": "Milkshake",
+        "price": 5.0,
+        "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+      },
+      {
+        "name": "Mie Ayam Bakso",
+        "price": 13.0,
+        "url": "https://drive.google.com/uc?export=view&id=1ufaBM5S9geYetDyiTykqGFUPnLdmpJJ9"
+      },
+      {
+        "name": "Bakso Rudal",
+        "price": 12.0,
+        "url": "https://drive.google.com/uc?export=view&id=1rCtyMfM0DI3U3LxWTDLVPAJro-Vx_Ouq"
+      },
+      {
+        "name": "Es Jeruk",
+        "price": 5.0,
+        "url": "https://drive.google.com/uc?export=view&id=1HvI4yf_WH_DLCnqya3jlqchWhQwq4A8O"
+      },
+      {
+        "name": "Jus Alpukat",
+        "price": 7.0,
+        "url": "https://drive.google.com/uc?export=view&id=1NpcivXuVrMUPFcyi_yDqUUPuGZMfi27b"
+      },
+      {
+        "name": "Ayam Goreng",
+        "price": 8.5,
+        "url": "https://drive.google.com/uc?export=view&id=1ECNPPeKGKTjvZa8sBMP8vrXOnsEY-cqC"
+      }
+    ]
+  },
+  {
+    "name":"Warung 3",
+    "address":"kantin DKV IT Telkom",
+    "delivery_charge": 6,
+    "image":"https://drive.google.com/uc?export=view&id=11LPrxsWw4N8DpNRGIj1_kUpujmkJ1dPF",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Nasi Pecel",
+        "price": 7.00,
+        "url": "https://drive.google.com/uc?export=view&id=1e7s8N-RfhjgBSZWka9ajCZ9Bh4hDd65F"
+      },
+      {
+        "name": "Pempek Palembang",
+        "price": 5.00,
+        "url": "https://drive.google.com/uc?export=view&id=1R_baleBYtfsWpDXQuPDXoK1rr6Y85dvw"
+      },
+      {
+        "name": "Air Mineral",
+        "price": 3.00,
+        "url": "https://drive.google.com/uc?export=view&id=1zTpMfhNJ6KGrjAh7qWRcBVqefTeJQjNU"
+      },
+      {
+        "name": "Kerak Telor Betawi",
+        "price": 8.00,
+        "url": "https://drive.google.com/uc?export=view&id=1kRD0KNk1gJ1fpMmWLLvyOQBVlifEy6PF"
+      },
+      {
+        "name": "Gado-Gado",
+        "price": 8.00,
+        "url": "https://drive.google.com/uc?export=view&id=1ksfE5KQAoeC75ozvHMKppnX0KatwdHwE"
+      },
+      {
+        "name": "Gudeg Jogja",
+        "price": 10.00,
+        "url": "https://drive.google.com/uc?export=view&id=1hzjKXx2G32KW4pRFRCBD43JUSylE0sC_"
+      },
+      {
+        "name": "Es Jeruk",
+        "price": 6.00,
+        "url": "https://drive.google.com/uc?export=view&id=1HvI4yf_WH_DLCnqya3jlqchWhQwq4A8O"
+      },
+      {
+        "name": "Lele Goreng",
+        "price": 6.00,
+        "url": "https://drive.google.com/uc?export=view&id=16990U_TpKn--UYbQf8GvbsagyYCLS1mW"
+      }
+    ]
+  }
+]
